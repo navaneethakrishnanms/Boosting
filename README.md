@@ -1,4 +1,8 @@
 🏡 Predicting Housing Prices with XGBoost
+
+## 🚀 Live Demo
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen?logo=streamlit)](https://boosting-5x7w6cv8agrddwexchpu8e.streamlit.app/)
+
 📌 Project Overview
 
 This project aims to build a machine learning model that predicts housing prices in California using the XGBoost algorithm.
